@@ -1,0 +1,26 @@
+{
+  "deviceGallery": {
+    "pageTitle": "Galerie D'appareils",
+    "addToCartButton": "Ajouter au Chariot",
+    "removeFromCartButton": "Retirer",
+    "priceTitle": "Prix",
+    "clearCartButton": "Vider le Panier",
+    "checkoutButton": "Check-out"
+  },
+  "checkout": {
+    "pageTitle": "Check-out",
+    "totalPriceTitle": "Prix Total"
+  },
+  "products": {
+    "id": "Id",
+    "name": "Name",
+    "price": "Price",
+    "group": "Category",
+    "isInStock": "In Stock",
+    "picture": "Picture",
+    "description": "Description",
+    "registered": "Date",
+    "createProduct": "Create Product",
+    "updateProduct": "Update Product"
+  }
+}

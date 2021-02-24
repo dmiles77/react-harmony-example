@@ -1,0 +1,26 @@
+{
+  "deviceGallery": {
+    "pageTitle": "Device Gallery",
+    "addToCartButton": "Add to Cart",
+    "removeFromCartButton": "Remove",
+    "priceTitle": "Price",
+    "clearCartButton": "Clear Cart",
+    "checkoutButton": "Checkout"
+  },
+  "checkout": {
+    "pageTitle": "Checkout",
+    "totalPriceTitle": "Total Price"
+  },
+  "products": {
+    "id": "מזהה",
+    "name": "שם",
+    "price": "מחיר",
+    "group": "קטגוריה",
+    "isInStock": "במלאי",
+    "picture": "תמונה",
+    "description": "תאור",
+    "registered": "תאריך",
+    "createProduct": "יצירת פריט",
+    "updateProduct": "עדכון פריט"
+  }
+}

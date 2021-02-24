@@ -1,0 +1,26 @@
+{
+  "deviceGallery": {
+    "pageTitle": "Device Gallery",
+    "addToCartButton": "Add to Cart",
+    "removeFromCartButton": "Remove",
+    "priceTitle": "Price",
+    "clearCartButton": "Clear Cart",
+    "checkoutButton": "Checkout"
+  },
+  "checkout": {
+    "pageTitle": "Checkout",
+    "totalPriceTitle": "Total Price"
+  },
+  "products": {
+    "id": "Id",
+    "name": "Name",
+    "price": "Price",
+    "group": "Category",
+    "isInStock": "In Stock",
+    "picture": "Picture",
+    "description": "Description",
+    "registered": "Date",
+    "createProduct": "Create Product",
+    "updateProduct": "Update Product"
+  }
+}
